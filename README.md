@@ -1,2 +1,2 @@
-# Card-pio-pedidos
+# Cardápio-pedidos
 uma lista onde você pode selecionar os sanduiches e fazer os pedidos
